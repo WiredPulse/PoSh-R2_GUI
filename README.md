@@ -1,4 +1,4 @@
 # PoSh-R2_GUI
 GUI version of PoSh-R2
 
-![Screenshot](/Screenshots/menu.png) 
+![Screenshot](https://github.com/WiredPulse/PoSh-R2/blob/master/Screenshots/menu.png?raw=true "Optional Title")
